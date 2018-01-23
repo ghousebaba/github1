@@ -1,0 +1,8 @@
+# github
+a=10
+b=20
+if [ $a -gt $b]
+echo "a is greater the b"
+else 
+echo "a is less then b"
+fi
